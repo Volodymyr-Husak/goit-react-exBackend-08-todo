@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-exAsyncRedux-07-todo/static/css/main.5763847e.css",
+    "main.js": "/goit-react-exAsyncRedux-07-todo/static/js/main.2e599900.js",
+    "index.html": "/goit-react-exAsyncRedux-07-todo/index.html",
+    "main.5763847e.css.map": "/goit-react-exAsyncRedux-07-todo/static/css/main.5763847e.css.map",
+    "main.2e599900.js.map": "/goit-react-exAsyncRedux-07-todo/static/js/main.2e599900.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5763847e.css",
+    "static/js/main.2e599900.js"
+  ]
+}
